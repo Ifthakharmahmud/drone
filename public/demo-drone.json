@@ -1,0 +1,93 @@
+[
+    {
+        "name":"Dji air 2s",
+        "id": 1,
+        "price":"$999",
+        "desc":"DJI Air 2S has the ability to perceive its environment in four directions: up, down, forward, and backward, allowing it to actively avoid obstacles, even in complex scenarios and at high speeds.",
+        "img":"https://i.ibb.co/PTVdCDr/Dji-Air2-S-09-1410x793.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"Mavic Pro",
+        "id": 2,
+        "price":"$750",
+        "desc":"Offers up to 4.3 miles (7km) of transmission range - Fly at up to 40mph (64kmh) or for as long as 27-minutes - True 4K, fully stabilized ensures smooth footage - Fly by Phone over Wi-Fi for even easier flight. Gimbal-Stabilized 12MP / 4K Camera",
+        "img":"https://i.ibb.co/prVWGq6/lumecube-lighting-kit-for-dji-mavic-pro-lc-mavic22-lumecube-080.jpg",
+        "status": "pending"
+
+    },
+
+    {
+        "name":"DJI Phantom 2 Quadcopter",
+        "id": 3,
+        "price":"$2500",
+        "desc":"he Zen muse H4-3D gimbal is included in this bundle and requires installation and calibration using the downloadable DJI gimbal software. A GoPro camera is not included; please purchase a GoPro Hero4 Black Edition to utilize the camera stabilization features of the gimbal",
+        "img":"https://i.ibb.co/Bnh9Qx1/DJI-Phantom-2-Vision-drone-810x455.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"DJI Mavic 2 PRO",
+        "id": 4,
+        "price":"$1200",
+        "desc":"With fly More kit: comes with 2 extra intelligent Flight batteries, Mavic 2 car charger, battery charging hub, battery to power bank adapter, 2x low-noise propellers (pairs), Mavic 2 shoulder bag",
+        "img":"https://i.ibb.co/L0f5SDw/m2p1.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"DJI Mavic Mini",
+        "id": 5,
+        "price":"$600",
+        "desc":"The compact yet powerful Mavic Mini is the perfect creative companion, capturing your moments in a way that effortlessly elevates the ordinary. Together with the easy-to-use DJI Fly app, you’ll enjoy a simplified flying experience and a perspective unlike any other.",
+        "img":"https://i.ibb.co/cyMLrKn/mini-2.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"Inspire 1",
+        "id": 6,
+        "price":"$2400",
+        "desc":"Perfect for high-level shoots and professional sets capturing your moments in a way that effortlessly elevates the ordinary. Live, wireless HD video transmission via DJI Lightbridge. Together with the easy-to-use DJI Fly app.",
+        "img":"https://i.ibb.co/5nSBDzs/dji-inspire-1-500x500.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"Inspire 1",
+        "id": 7,
+        "price":"$2400",
+        "desc":"Perfect for high-level shoots and professional sets capturing your moments in a way that effortlessly elevates the ordinary. Live, wireless HD video transmission via DJI Lightbridge. Together with the easy-to-use DJI Fly app.",
+        "img":"https://i.ibb.co/5nSBDzs/dji-inspire-1-500x500.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"4DRC F4 GPS 5G WIFI 2KM FPV",
+        "id": 8,
+        "price":"$200",
+        "desc":"Camera Resolution: 4K, Type: Outdoor Toys,Entry-level Aerial Drone, Transmission Channel: 5G Wifi, Level: Beginner Level, Control FPV Distance: 1.5KM-3KM. Gimble: 2 Axis Brushless Gimble, Construction: Foldable",
+        "img":"https://i.ibb.co/W3sBNp6/bf10f80f-4436-4d07-8a24-857b12e2530b.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"4DRC M1 PRO GPS WiFi",
+        "id": 9,
+        "price":"$169",
+        "desc":"Equipped with 2-axis Mechanical Anti shake Gimbal,effectively eliminate shake and improve the image quality of aerial photography.GPS positioning mode provides a more accurate flight.With 5G  wifi function can be connected APP, APK system to take pictures/video, real-time transmission through the phone camera image- 5G WiFi FPV distance up to 3000m.",
+        "img":"https://i.ibb.co/4JVSdW2/download.jpg",
+        "status": "pending"
+
+    },
+    {
+        "name":"XMR/C M9 GPS 5G WiFi FPV",
+        "id": 10,
+        "price":"$200",
+        "desc":"360° Forward laser obstacle avoidance function.Mechanical three axis EIS anti-shake gimbal.Real-time image transmission. MV functions: filters, video effects, add background music, picture / video sharing.Folding portable fuselage",
+        "img":"https://i.ibb.co/Njd2fWJ/237762c8-df04-4212-8150-258216babc12.jpg",
+        "status": "pending"
+
+    }
+]

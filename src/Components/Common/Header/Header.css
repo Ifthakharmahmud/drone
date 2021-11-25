@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+.navbar-brand{
+    font-family: 'Festive', cursive;
+}
+.login{
+    background-color: cadetblue;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color: white !important;
+    font-weight: 500;
+}
+.loginUser{
+    color: rgb(2, 150, 118) !important;
+    text-decoration: underline !important;
+}
+
+.header-logo{
+    height: 100px;
+}
